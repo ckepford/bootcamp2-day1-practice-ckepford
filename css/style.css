@@ -22,7 +22,7 @@ li {
 
 @media screen and (min-width: 500px) {
   .col-md-4 {
-    background-color: purple;
+    background-color: #ae8a1e;
   }
 }
 
@@ -33,4 +33,8 @@ a {
 
 a:focus, a:hover {
   color: green;
+}
+.hero-name {
+  text-shadow:5px 5px black;
+  font-syle:italic;
 }
